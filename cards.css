@@ -1,0 +1,31 @@
+/*.newCard {
+	border-width: 5px;
+	border-color: blue;
+	border-style: solid;
+	margin-top: 20px;
+	width: 50px;
+	text-align: center;
+	height: 75px;
+	float: left;
+	margin-left: 20px;
+
+}
+*/
+.card-appear {
+	border-width: 5px;
+	border-color: blue;
+	border-style: solid;
+	margin-top: 20px;
+	width: 50px;
+	text-align: center;
+	height: 75px;
+	float: left;
+	margin-left: 20px;
+
+
+}
+
+.card-disappear {
+	background-color: #ffffff;
+	display: none;
+}
